@@ -1,0 +1,10 @@
+By Puneeth P 
+Dated 05 Jan 2018
+
+
+Made with UI/UX friendly, in this short time I have made this project with the intention of controlling the genral home aplliances using this simple web application 
+Please note that with various other frameworks and librarys exitsting out there , I have tired using the basics of front end languages, this project can be expanded for further and much bigger purpose of Home Automation
+
+Credits 
+Unsplash 
+w3c schools 
